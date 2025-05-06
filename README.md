@@ -80,5 +80,5 @@
 
 ## GitHub Stats 📊
 
-![Edumudu's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=edumudu&show_icons=true&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC)
-![Edumudu's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edumudu&layout=compact&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC&hide=php)
+![nortgraf GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nortgraf&show_icons=true&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC)
+![nortgraf Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nortgraf&layout=compact&hide_border=true&bg_color=0000&text_color=FFAACC&title_color=FFAACC&hide=php)
