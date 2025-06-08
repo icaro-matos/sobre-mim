@@ -13,7 +13,7 @@
 - [codesandbox](https://codesandbox.io/u/edumudu)
 - [hackerrank](https://www.hackerrank.com/edumudu)
 - [instagram](https://instagram.com/eduardomudu)
-
+-->
 
 ## Technologies & Tools 🛠️
 
@@ -42,7 +42,7 @@
   [<img align="left" src=images/back-end/mysql.svg height=30>](https://www.mysql.com/)
   <br>
   <br>
-  -->
+  
 - **Utils**
   <br>
   <br>
