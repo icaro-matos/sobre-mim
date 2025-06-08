@@ -23,7 +23,9 @@
   [<img align="left" src=images/front-end/html-5.svg height=30>](https://www.w3schools.com/html/)
   [<img align="left" src=images/front-end/css-3.svg height=30>](https://www.w3schools.com/css/)
   [<img align="left" src=images/front-end/sass.svg height=30>](https://sass-lang.com/)
- <!-- [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/) -->
+ <!-- 
+[<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
+ -->
   [<img align="left" src=images/front-end/js.svg height=30>](https://www.w3schools.com/js/DEFAULT.asp)
 <!-- 
 [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
