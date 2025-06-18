@@ -26,12 +26,10 @@
   [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
   [<img align="left" src=images/front-end/js.svg height=30>](https://www.w3schools.com/js/DEFAULT.asp)
   [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
-  <!--
-  [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
-  -->
   [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
   [<img align="left" src=images/front-end/vue.svg height=30>](https://vuejs.org/)
   <!--
+  [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
   [<img align="left" src=images/front-end/nuxt.svg height=30>](https://nuxtjs.org/)
   -->
   <br>
@@ -46,7 +44,9 @@
   [<img align="left" src=images/back-end/mysql.svg height=30>](https://www.mysql.com/)
   <br>
   <br>
+  
   <!--
+  
 - **Utils**
   <br>
   <br>
@@ -55,7 +55,9 @@
   [<img align="left" src=images/utils/cypress.png height=30>](https://www.cypress.io/)
   <br>
   <br>
+  
   -->
+  
 - **Tools**
   - **Version Control & Issue Tracking**
     <br>
