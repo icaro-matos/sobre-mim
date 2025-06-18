@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Icaro Matos</h1>
 <h3 align="center">A 38-year-old passionate developer from Brazil</h3>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Laravel**
 - ⚙️ I daily use `.html` `.css` `.scss` `.json` `.vue` `.ts` `.js`
 - 📫 How to reach me **icaroamb@gmail.com**
 
