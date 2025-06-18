@@ -29,7 +29,9 @@
   [<img align="left" src=images/front-end/es6.svg height=30>](https://www.w3schools.com/js/js_es6.asp)
   [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
   [<img align="left" src=images/front-end/vue.svg height=30>](https://vuejs.org/)
+  <!--
   [<img align="left" src=images/front-end/nuxt.svg height=30>](https://nuxtjs.org/)
+  -->
   <br>
   <br>
 
