@@ -45,19 +45,6 @@
   <br>
   <br>
   
-  <!--
-  
-- **Utils**
-  <br>
-  <br>
-  [<img align="left" src=images/utils/eslint.svg height=30>](https://eslint.org/)
-  [<img align="left" src=images/utils/jest.svg height=30>](https://jestjs.io/)
-  [<img align="left" src=images/utils/cypress.png height=30>](https://www.cypress.io/)
-  <br>
-  <br>
-  
-  -->
-  
 - **Tools**
   - **Version Control & Issue Tracking**
     <br>
